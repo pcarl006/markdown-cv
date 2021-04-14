@@ -1,91 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Peter Carlstrom's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Peter Carlstrom
+Congressional Field Representative, UCR MPP Graduate Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pcarl006@ucr.edu">pcarl006@ucr.edu</a>
+| <a href="https://github.com/pcarl006">My GitHub page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Congressional staff in a district office, while pursuing a graduate degree in Public Policy at UCR.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Government and politics, particularly at the federal level. 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Environmental policy (especially related to climate change), geopolitics, healthcare, poverty.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1996 - 2000`
+__Redwood High School in Visalia, CA.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2000 - 2002`
+__College of the Sequoias in Visalia, CA.__
 
-- Sizar
+`2002 - 2003`
+__Long Beach City College in Long Beach, CA.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2003 - 2005`
+__California State University, Long Beach in Long Beach, CA.__
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2020 - now`
+__Unversity California, Riverside__
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2017 - now`
+__Field Representative, Office of Congressman Ruiz__, Palm Desert
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Build and maintain stakeholder relationships
+- Attend events on behalf of the office
+- Cover a diverse portfolio of issues including healthcare, agriculture, small business, and environment
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021 -->
 
 
