@@ -41,7 +41,7 @@ __Long Beach City College in Long Beach, CA.__
 __California State University, Long Beach in Long Beach, CA.__
 
 `2020 - now`
-__Unversity California, Riverside__
+__Unversity California, Riverside in Riverside, CA.__
 
 
 ## Occupation
