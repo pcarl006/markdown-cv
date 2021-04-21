@@ -52,6 +52,10 @@ __Field Representative, Office of Congressman Ruiz__, Palm Desert
 - Attend events on behalf of the office
 - Cover a diverse portfolio of issues including healthcare, agriculture, small business, and environment
 
+`2013 - 2017`
+__Server, Red Lobster, Palm Desert
+
+- Providing customers an excellent dining experience 
 <!-- ### Footer
 
 Last updated: April 2021 -->
